@@ -1,9 +1,7 @@
 ![Banner](assets/banner-readme.png)
 <p align="center" style="color: white;">
-    <img src="https://profile-counter.glitch.me/Juanes200122/count.svg" />
+    <img src="https://profile-counter.glitch.me/LuisPuentes14/count.svg" />
 </p>
-
-
 
 
 <h2>Hey 👋, Soy Alejandro Puentes<a href=""></a></h2><img align="left" src="assets/ZKZh.gif" width="130" />
@@ -31,6 +29,7 @@ desarrollado API's Rest y plataformas utilizando .NET 6 y 8 (C#), cumpliendo con
 - Desarrollo de API's Rest en C# con .NET 6 y .NET 8.
 - Mantenimiento, administración y desarrollo de Bases de Datos en SQL Server y PostgreSQL.
 - Líder de proyectos.
+
 
 ### 🖥️ World Pos Solutions | 2021 - 2023
 **Desarrollador**
@@ -84,21 +83,14 @@ desarrollado API's Rest y plataformas utilizando .NET 6 y 8 (C#), cumpliendo con
 </p>
 
 
-
-
-
-
-
-
-</br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+   <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LuisPuentes14&theme=tokyonight&hide_border=true&background=FFFFFF00">
 </p>
 
 
-Credits: [Juanes200122]()
 
-Last Edited on: 08/08/2024
+Credits: [Juanes200122]() | Last Edited on: 08/08/2024
