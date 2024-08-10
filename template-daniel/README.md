@@ -21,7 +21,6 @@
 
 > Abierto a nuevas oportunidades, estoy dispuesto a aprender y crecer profesionalmente en el campo del desarrollo de software.
 
-
 ##
 
 Experiencia⭐
