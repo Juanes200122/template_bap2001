@@ -34,6 +34,7 @@ Experiencia⭐
 - Migración de una base de datos Cassandra a SQL Server.
 
 </br>
+
 Educación📝
 ### 🖥 Carrera profesional | 2023
 **Ingeniero de sistemas** |
@@ -83,8 +84,6 @@ Universidad Francisco de Paula Santander Ocaña.
 
 
 
-
-
 <p align = "center">
    <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
@@ -92,8 +91,3 @@ Universidad Francisco de Paula Santander Ocaña.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DanielFelipeRizo&theme=tokyonight&hide_border=true&background=FFFFFF00">
 </p>
-
-
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
-</a>
