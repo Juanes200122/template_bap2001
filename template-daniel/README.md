@@ -28,7 +28,8 @@ Experiencia⭐
 **Desarrollador web**
 
 - Como desarrollador de software, me especializo en el desarrollo web en el backend.
-- Experiencia con .Net framework 4.8 Visual Basi
+- plataforma de desarrollo ágil PHP scriptcase. 
+- Experiencia con .Net framework 4.8 Visual Basic.
 - Manejo de SQL Server, PostgreSQL y Cassandra.
 - Migración de una base de datos Cassandra a SQL Server.
 
@@ -40,8 +41,8 @@ Educación📝
 Universidad Francisco de Paula Santander Ocaña.
 
 ### 🖥 Secundaria | 2015
-**Ingeniero de sistemas** |
-Universidad Francisco de Paula Santander Ocaña.
+**Bachiller académico** |
+Colegio nacional Jose Eusebio Caro, Ocaña.
 
 
 ---
